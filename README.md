@@ -8,4 +8,6 @@ If you don't have jupyter notebook, please install it follow the instruction in 
 https://jupyter.readthedocs.io/en/latest/install.html
 
 3D interactive plot with dropdown menu to select event sample
-![3D plot] (https://github.com/kunxianhuang/skplotly/blob/master/figure/3Ddisplay_sample_pic.png "3D interactive plot")\
+
+
+![3D plot] (https://github.com/kunxianhuang/skplotly/blob/master/figure/3Ddisplay_sample_pic.png "3D interactive plot") \
